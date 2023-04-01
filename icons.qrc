@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/T-90.png</file>
+        <file>icons/plus_toolbar.png</file>
+        <file>icons/tank.png</file>
+        <file>icons/Автомобиль.png</file>
+        <file>icons/Боевая машина пехоты.png</file>
+        <file>icons/Бпла ближнего радиуса действия.png</file>
+        <file>icons/Бпла среднего радиуса действия.png</file>
+        <file>icons/Бронетранспортер.png</file>
+        <file>icons/Вертолет.png</file>
+        <file>icons/Самолет ближнего радиуса действия.png</file>
+        <file>icons/Самолет дальнего радиуса действия.png</file>
+        <file>icons/Самолетт среднего радиуса действия.png</file>
+        <file>icons/Судно.png</file>
+        <file>icons/УГЗ.docx</file>
+    </qresource>
+</RCC>
